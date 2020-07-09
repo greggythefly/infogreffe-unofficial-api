@@ -1,5 +1,5 @@
 {
-  "name": "rudloff/infogreffe-unofficial-api",
+  "name": "greggythefly/infogreffe-unofficial-api",
   "description": "Unofficial API for infogreffe.fr",
   "require": {
     "symfony/console": "~3.0.0",
